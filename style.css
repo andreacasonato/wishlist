@@ -59,6 +59,10 @@ button:hover {
   background-color: #ffe987;
 }
 
+.fa-arrow-right {
+  color: #222222;
+}
+
 .wishes-display {
   margin-top: 80px;
   margin-bottom: 80px;
